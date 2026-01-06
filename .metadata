@@ -1,9 +1,1 @@
 project_type: app
-
-# This file tracks properties of this Flutter project.
-# Used by Flutter tool to package and identify the project.
-version:
-  revision: 32a64aa0dee5ad62abd6997a369e06e336b9074d
-  channel: stable
-
-project_type: app
