@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992920592438",
+    "project_id": "impuestos-familia",
+    "storage_bucket": "impuestos-familia.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992920592438:android:c759a85eeddb72d1253897",
+        "android_client_info": {
+          "package_name": "Impuesto_familiar1.rc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOMoSijMzSKrh6M_F2MXNNVTwF6n5jJLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992920592438:android:ae2de6cff3538887253897",
+        "android_client_info": {
+          "package_name": "impuestos.familiar.pagos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOMoSijMzSKrh6M_F2MXNNVTwF6n5jJLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
